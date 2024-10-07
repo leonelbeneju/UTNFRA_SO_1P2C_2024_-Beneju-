@@ -1,4 +1,3 @@
-#!/bin/bash
 # UTNFRA_SO_1P2C_2024_-Beneju-
 
 nombre: Leonel
